@@ -1,0 +1,26 @@
+district,province,population,hospitals,outpatient_visits,visit_rate
+Colombo,Western,1021958,11,4171340,4.08
+Gampaha,Western,1159178,15,3752004,3.24
+Kalutara,Western,2003462,17,4356301,2.17
+Kandy,Central,387498,10,1007843,2.6
+Matale,Central,491335,10,1651933,3.36
+Nuwara Eliya,Central,364820,4,1288835,3.53
+Galle,Southern,627069,8,1129896,1.8
+Matara,Southern,403355,7,1323793,3.28
+Hambantota,Southern,647449,8,1176388,1.82
+Jaffna,Northern,236730,3,452627,1.91
+Kilinochchi,Northern,82747,7,166938,2.02
+Mannar,Northern,147435,5,475005,3.22
+Vavuniya,Northern,353538,6,1151864,3.26
+Mullaitivu,Northern,336840,3,1373406,4.08
+Trincomalee,Eastern,539931,4,1471311,2.72
+Batticaloa,Eastern,717113,7,1688188,2.35
+Ampara,Eastern,551995,9,1801707,3.26
+Kurunegala,North Western,406530,3,984238,2.42
+Puttalam,North Western,759773,8,1746763,2.3
+Anuradhapura,North Central,615139,8,1153479,1.88
+Polonnaruwa,North Central,502283,4,1380454,2.75
+Badulla,Uva,835822,10,2648774,3.17
+Monaragala,Uva,653531,11,2683929,4.11
+Ratnapura,Sabaragamuwa,520884,4,1612271,3.1
+Kegalle,Sabaragamuwa,648951,11,1605662,2.47
