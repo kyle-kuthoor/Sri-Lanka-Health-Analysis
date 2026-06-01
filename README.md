@@ -1,6 +1,8 @@
 # Sri Lanka Healthcare Access Analysis
 
 ## Overview
+## View Notebook
+[Click here to view the full notebook](https://nbviewer.org/github/kyle-kuthoor/Sri-Lanka-Health-Analysis/blob/main/sri-lanka-health-analysis.ipynb)
 An exploratory data analysis of outpatient healthcare utilisation across all 
 25 districts of Sri Lanka, examining access gaps and the potential for 
 telemedicine to bridge underserved regions.
